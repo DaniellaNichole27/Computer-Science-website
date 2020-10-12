@@ -11,9 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# About The Mortal Instruments Series
-</h1>
-<p> Flying Bison are known as the original air benders in Avatar. They tend to weigh ten tons when fully grown. Appa is the most famous flying bison in the Avatar world because he is the animal companion to Aang the avatar who ended the 100 year war. Flying Bison although weigh tons can fly in the air for hours at a time. They breed in litters meaning a mom will give birth to 3 to 7 bisons in a pregnancy.</p>
+# About The Immortal Instruments
+# Markdown The Immortal Instruments is a book series written by Cassandra Clare. It follows the life <br /> of the young CLary Fray who is a rebellious teenager who constantly explores new things and places to help inspire her drawings. However her <br /> mundane life erupts into a world of angels and demons as her eyes adjust to a hidden world filled with magic she had never experienced before.<br />
 ## Explore The Shadowhunter World
 ### Header 
 
