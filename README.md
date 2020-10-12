@@ -19,16 +19,7 @@ Cassandra Clare renowned in the writing community for her imagination has writte
 5. City of Lost Souls
 6. City of Heavenly Fire
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src) 
+[https://www.amazon.com/Mortal-Instruments-Complete-Collection-Heavenly/dp/1481444433](url) and ![Image](src) 
 [Link](url) and ![Image](src) 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaniellaNichole27/Computer-Science-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
