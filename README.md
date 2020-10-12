@@ -20,6 +20,6 @@ Cassandra Clare renowned in the writing community for her imagination has writte
 6. City of Heavenly Fire
 
 
-[https://www.amazon.com/Mortal-Instruments-Complete-Collection-Heavenly/dp/1481444433](url) and ![Image](src) 
-[Link](url) and ![https://images.app.goo.gl/6c442SCYDdMypPXaA](src) 
-```
+[https://www.amazon.com/Mortal-Instruments-Complete-Collection-Heavenly/dp/1481444433](url) 
+Image: ![https://images.app.goo.gl/6c442SCYDdMypPXaA](src) 
+Image: [https://images.app.goo.gl/Tpzr1GWudQ2ECvmQA].(src)
