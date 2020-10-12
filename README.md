@@ -2,11 +2,10 @@
 
 Here you can learn all about shadowhunters and the beautiful world created by Cassandra Clare.
 
-#header1 About the Immortal Instruments Series
 
-### Markdown
+### About the Immortal Instruments Series
+Containing six novels and completed in 2014 this inventive and unique story has been popularized for the last couple of years with the creation of the major motion picture, The Mortal Instruments: City of Bones. It has also gained much more attention with the devolpment of a television show.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
