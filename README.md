@@ -11,9 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# About The Mortal Instruments
-## Header 2
-### Header 3
+# About The Mortal Instruments Series
+</h1>
+<p> Flying Bison are known as the original air benders in Avatar. They tend to weigh ten tons when fully grown. Appa is the most famous flying bison in the Avatar world because he is the animal companion to Aang the avatar who ended the 100 year war. Flying Bison although weigh tons can fly in the air for hours at a time. They breed in litters meaning a mom will give birth to 3 to 7 bisons in a pregnancy.</p>
+## Explore The Shadowhunter World
+### Header 
 
 - Bulleted
 - List
